@@ -147,7 +147,7 @@ We can sometimes handle the indeterminate form 0•∞ and ∞-∞ by using alge
   = lim_{x→0+} 1/sec²x = 1/1 = 1
 
   
-# Example 7
+
 
   
 
